@@ -1,1 +1,2 @@
 C:\Users\winpx\source\repos\ConsoleAnimation\x64\Debug\ConsoleAnimation.exe
+D:\GIT\ConsoleAnimation\x64\Debug\ConsoleAnimation.exe
